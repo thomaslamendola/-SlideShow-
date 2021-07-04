@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 ## µSlideShow 
 
 µSlideShow is the answer to your photo slideshow needs: create your own slideshow within seconds using this tiny, extremely simple, yet incredibly powerful app!
